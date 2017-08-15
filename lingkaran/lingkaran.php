@@ -22,7 +22,7 @@
            }
    ?>
    <div class='lingkaran'>
-   	  <h2 class="judul">Lingkaran</h2> 
+   	  <h2 class="judul">Lingkarang</h2> 
    	<form method="POST" action="">
    	  <input type='text' name='diameter' class="bil" autocomplete='off' placeholder='diameter'>	
    	  	 <select class='opt' name='operasi'>
