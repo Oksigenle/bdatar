@@ -1,0 +1,46 @@
+body{
+	background: red;
+	font-family: sans-serif;
+}
+.judul{
+	text-align: center;
+	color: black;
+	font-weight: normal;
+}
+ 
+.segitiga{
+	width: 335px;
+	background: black;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #D1D1D1;
+}
+
+.bil{
+	width: 300px;
+	margin: 10px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;	
+}
+.tombol{
+	background: red;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius:5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	border-bottom:4px solid #BF3D3D;
+}
+.opt{
+	font-size: 16pt;
+	border: none;
+	width: 195px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
